@@ -9,9 +9,9 @@ My profile in LinkedIn: https://www.linkedin.com/in/saad-aziz-246524271
 My contribution in Kaggle: https://www.kaggle.com/saadaziz1985
 
 
-- 🔭 I’m currently working on ... Data Science and Machine Learning
+- 🔭 I’m currently working on ... Data Analysis, Data Quality, Data Science and Machine Learning
 - 🌱 I’m currently learning ... Deep Learning
-- 👯 I’ve recently worked with start-up companies like ... SABIC and SIPCHEM
+- 👯 I’ve recently worked with companies like ... SABIC and SIPCHEM
 - 📫 How to reach me: ... saadaziz1985@gmail.com
 - 😄 Words about Myseld: ... Self-motivated, Problem-solver, Focused and Hardworking.
 
